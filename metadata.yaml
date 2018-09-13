@@ -1,0 +1,43 @@
+_repo: The-Tory-Lover_51537
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Woodbury, Charles H. (Charles Herbert)
+    alias: Woodbury, Charles Herbert
+    birthdate: 1864
+    deathdate: 1940
+    gutenberg_agent_id: '46435'
+    url: http://www.gutenberg.org/2009/agents/46435
+  - agent_name: Woodbury, Marcia Oakes
+    aliases:
+    - Oakes, Marcia
+    - Oakes, Susan Marcia
+    birthdate: 1865
+    deathdate: 1913
+    gutenberg_agent_id: '36905'
+    url: http://www.gutenberg.org/2009/agents/36905
+creator:
+  author:
+    agent_name: Jewett, Sarah Orne
+    birthdate: 1849
+    deathdate: 1909
+    gutenberg_agent_id: '202'
+    url: http://www.gutenberg.org/2009/agents/202
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+description: ''
+gutenberg_issued: '2016-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51537'
+  lccn: 01020948
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'War stories'
+- GITenberg
+title: The Tory Lover
+url: http://www.gutenberg.org/ebooks/51537
